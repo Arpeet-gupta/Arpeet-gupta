@@ -7,3 +7,6 @@ I'm Arpeet Gupta from India.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpeet-gupta&theme=dark&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/[Arpeet-gupta])
+
