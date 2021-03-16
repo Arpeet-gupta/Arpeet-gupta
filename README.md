@@ -1,5 +1,3 @@
-![DevOps Engineer]()
-
 # Arpeet Gupta | DevOps Engineer
 As someone who is always passionate for learning more about tech and life. I really enjoy learning distributed systems such as kubernetes and hybrid cloud. I'm Opensource enthusiast, learning and contribution to the same is my passion. Outside of Github Am a great animal lover 🐶, loves to try different cuisines🍜 and travelling and is something I'm always found of🚕.
 
