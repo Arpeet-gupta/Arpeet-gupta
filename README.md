@@ -1,12 +1,12 @@
 ![DevOps Engineer]()
 
 # Arpeet Gupta | DevOps Engineer
-I am Arpeet Gupta
+As someone who is always passionate for learning more about tech and life. I really enjoy learning distributed systems such as kubernetes and hybrid cloud. I'm Opensource enthusiast, learning and contribution to the same is my passion. Outside of Github Am a great animal lover 🐶, loves to try different cuisines🍜 and travelling is something I'm always found of🚕.
 
 - 🔭 I’m currently working on Kubernetes and AWS 
 - 🌱 I’m currently learning Golang Grpc and REST APIs 
-- 👯 I’m looking to collaborate on Kubernetes 
-- 💬 Ask me about DevOps 
+- 👯 I’m looking to collaborate on Kubernetes.
+- 💬 Ask me about DevOps.
 
 ## Skills and Experience
 - Kubernetes/ Istio/ AWS/ Docker/ Cloudflare/ Jenkins/ Terraform/ Prometheus/ Grafana/ Elasticsearch/ Fluentd/ Kibana/ PagerDuty
