@@ -15,6 +15,7 @@ As someone who is always passionate for learning more about tech and life. I rea
 
 
 
+![Visitor Count](https://profile-counter.glitch.me/Arpeet-gupta/count.svg)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arpeet-gupta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/arpit-gupta-060674164/) 
