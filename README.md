@@ -15,6 +15,7 @@ As someone who is always passionate for learning more about tech and life. I rea
 
 
 
+![](https://komarev.com/ghpvc/?username=Arpeet-gupta&style=plastic&label=PROFILE+VIEWS&color=green)
 ![Visitor Count](https://profile-counter.glitch.me/Arpeet-gupta/count.svg)
 
 
