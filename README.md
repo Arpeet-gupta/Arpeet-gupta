@@ -8,9 +8,10 @@ As someone who is always passionate for learning more about tech and life. I rea
 - 👯 I’m looking to collaborate on Kubernetes.
 - 💬 Ask me about DevOps.
 
-## Skills and Experience
+## Tech Stack
 - Kubernetes/ Istio/ AWS/ Docker/ Cloudflare/ Jenkins/ Terraform/ Prometheus/ Grafana/ Elasticsearch/ Fluentd/ Kibana/ PagerDuty
 
+## Github Statics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpeet-gupta&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-gupta)](https://github.com/anuraghazra/github-readme-stats)
 
 
