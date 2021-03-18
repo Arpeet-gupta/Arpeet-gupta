@@ -7,18 +7,7 @@ As someone who is always passionate for learning more about tech and life. I rea
 - 💬 Ask me about DevOps.
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/docker-2496ED?logo=Docker&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/go-00ADD8?logo=GO&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/amazonaws-232F3E?logo=Amazonaws&logoColor=white&style=plastic" /> 
-<img src="https://img.shields.io/badge/terraform-623CE4?logo=Terraform&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/elastic-005571?logo=Elastic&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/kibana-005571?logo=Kibana&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/fluentd-00ADD8?logo=GO&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/jenkins-00ADD8?logo=GO&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/cloudflare-00ADD8?logo=GO&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/prometheus-00ADD8?logo=GO&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/grafana-00ADD8?logo=GO&logoColor=white&style=plastic" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Go-00ADD8?logo=GO&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/AmazonAws-232F3E?logo=Amazonaws&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Terraform-623CE4?logo=Terraform&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Elastic-005571?logo=Elastic&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Kibana-005571?logo=Kibana&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Fluentd-E83C8?logo=Fluentd&logoColor=white&style=plastic" />   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white&style=plastic" />    <img src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white&style=plastic" />
 
 
 ## Github Statics
