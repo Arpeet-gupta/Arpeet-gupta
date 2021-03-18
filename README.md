@@ -7,6 +7,7 @@ As someone who is always passionate for learning more about tech and life. I rea
 - 💬 Ask me about DevOps.
 
 ## Tech Stack
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
 - Kubernetes/ Istio/ AWS/ Docker/ Cloudflare/ Jenkins/ Terraform/ Prometheus/ Grafana/ Elasticsearch/ Fluentd/ Kibana/ PagerDuty
 
 ## Github Statics
