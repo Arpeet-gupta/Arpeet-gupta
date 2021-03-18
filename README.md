@@ -10,10 +10,12 @@ As someone who is always passionate for learning more about tech and life. I rea
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/go.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/elastic.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kibana.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fluentd.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cloudflare.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" /> <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />
 
 ## Github Statics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpeet-gupta&show_icons=true&theme=radical&count_private=true) 
+
 <details>
   <summary>:zap: Github Stats </summary>
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpeet-gupta&show_icons=true&theme=radical&count_private=true) 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpeet-gupta&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-gupta)](https://github.com/anuraghazra/github-readme-stats)
    
   <summary>:zap: Github Stats </summary>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-gupta)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,6 +25,7 @@ As someone who is always passionate for learning more about tech and life. I rea
 <details>
    
   <summary>:zap: Top Languages </summary>
+  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-gupta)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
