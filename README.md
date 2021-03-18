@@ -10,7 +10,7 @@ As someone who is always passionate for learning more about tech and life. I rea
 <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/docker-2496ED?logo=Docker&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/go-00ADD8?logo=GO&logoColor=white&style=plastic" />
-<img src="https://img.shields.io/badge/amazon aws-232F3E?logo=Amazon aws&logoColor=white&style=plastic" /> 
+<img src="https://img.shields.io/badge/amazonaws-232F3E?logo=Amazon Aws&logoColor=white&style=plastic" /> 
 <img src="https://img.shields.io/badge/terraform-623CE4?logo=Terraform&logoColor=white&style=plastic" />
 
    <img alt='terraform' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />   <img alt='elasticsearch' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/elastic.svg" />   <img alt='kibana' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kibana.svg" />   <img alt='fluentd' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fluentd.svg" />   <img alt='jenkins' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />   <img alt='cloudflare' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cloudflare.svg" />   <img alt='prometheus' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" />   <img alt='grafana' height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />
