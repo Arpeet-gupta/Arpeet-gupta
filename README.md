@@ -7,13 +7,19 @@ As someone who is always passionate for learning more about tech and life. I rea
 - 💬 Ask me about DevOps.
 
 ## Tech Stack
-<img align="left" alt="kubernetes" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="kubernetes" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="kubernetes" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="kubernetes" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="kubernetes" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-
-- Kubernetes/ Istio/ AWS/ Docker/ Cloudflare/ Jenkins/ Terraform/ Prometheus/ Grafana/ Elasticsearch/ Fluentd/ Kibana/ PagerDuty
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/go.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/aws.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/go.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/elastic.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kibana.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fluentd.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cloudflare.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />
 
 ## Github Statics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpeet-gupta&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-gupta)](https://github.com/anuraghazra/github-readme-stats)
