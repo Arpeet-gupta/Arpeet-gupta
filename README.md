@@ -28,8 +28,8 @@ As someone who is always passionate for learning more about tech and life. I rea
   
 </details>
 
-## Find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="24" width="24">](https://github.com/Arpeet-gupta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height="24" width="24">](https://www.linkedin.com/in/linkedin.com/in/arpit-gupta-060674164/) 
+## Reach me at: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height="24" width="24">](https://www.linkedin.com/in/linkedin.com/in/arpit-gupta-060674164/) 
 
 ![](https://komarev.com/ghpvc/?username=Arpeet-gupta&style=plastic&label=Profile+views&color=green)
 
